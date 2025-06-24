@@ -38,4 +38,4 @@ Search engines, aggregators, and directories now index content within these syst
 This repository is for educational purposes only. We do not condone or support illegal activities on the Deep Web.
 - Author: https://github.com/TanayYadav22
 - Related Content: https://github.com/TanayYadav22/Intelligence-Disciplines
-- Social Media: X ( https://x.com/_tanayyadav_ ), LinkedIn ( https://www.linkedin.com/in/tanay-yadav2101/ )
+- Social Media: X ( https://x.com/_tanayyadav_/ ), LinkedIn ( https://www.linkedin.com/in/tanay-yadav2101/ )
