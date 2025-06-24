@@ -10,7 +10,7 @@ The **Deep Web** refers to all parts of the internet that aren't indexed by stan
 
 ---
 
-## 🕰️ Detailed History
+## 🕰️ Quick History
 
 - **1990s**: As the internet began to grow, it became clear that traditional search engines couldn't reach everything. The term "invisible web" was first introduced.
 - **2001**: Michael K. Bergman coined the term "Deep Web" and estimated it was 400–500 times larger than the surface web.
@@ -36,3 +36,4 @@ Search engines, aggregators, and directories now index content within these syst
 ## ⚠️ Disclaimer
 
 This repository is for educational purposes only. We do not condone or support illegal activities on the Deep Web.
+Author - https://github.com/TanayYadav22
